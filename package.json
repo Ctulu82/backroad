@@ -37,6 +37,7 @@
     "@fortawesome/react-fontawesome": "0.0.20",
     "@types/mongoose": "^5.0.18",
     "axios": "^0.18.0",
+    "bcrypt": "^5.0.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
     "chalk": "^2.4.1",
